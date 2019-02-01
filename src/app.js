@@ -2,7 +2,7 @@ import React from "react";
 
 const App = () => (
   <div>
-    <header>Kebin!?</header>
+    <header>Hello this is kebin</header>
   </div>
 );
 
