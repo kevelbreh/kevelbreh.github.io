@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},9:function(e,n,t){"use strict";t.r(n);var r=t(0),l=t.n(r),o=t(2),a=function(){return l.a.createElement("div",null,l.a.createElement("header",null,"Hello this is kebin"))};t.n(o).a.render(l.a.createElement(a,null),document.getElementById("root"))}},[[3,2,1]]]);
+//# sourceMappingURL=main.ffe729fe.chunk.js.map
